@@ -1,4 +1,4 @@
 # vimrc-myConfig
-## my current config for .vimrc
+## My current configuration of .vimrc
 
 Set up for Python and Javascript/JSX 
